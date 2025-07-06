@@ -40,20 +40,21 @@ Backend/API (for real-time data & orders)
 
 ## 🚀 Live Demo
 ## 📸 Preview
+![image](https://github.com/user-attachments/assets/facb5fd0-c46a-49c3-871e-12361a545f1f)
+![image](https://github.com/user-attachments/assets/da189683-2199-4bf3-b896-226a9cd03b0a)
+![image](https://github.com/user-attachments/assets/1552252e-3277-4251-8fa7-b988ba1b8b87)
+![image](https://github.com/user-attachments/assets/92d5678f-2b5e-460b-ae52-8fb65eebeec2)
 
-![image](https://github.com/user-attachments/assets/5a6292ae-d186-4280-9cb9-326ec0fb1e11)
+![image](https://github.com/user-attachments/assets/fd9395b9-ee58-46a8-82f7-d1ffc9224ad2)
+
+
+
+
+
 
 # 🛒 ShoppyGlobe E-commerce Application
 
 ShoppyGlobe is a fully responsive e-commerce web application built using **React.js** and **Tailwind CSS**. It allows users to browse a variety of product categories such as beauty, fragrances, furniture, groceries, and more. This project demonstrates a clean UI, product listing functionality, and a simple cart icon to simulate an online shopping platform.
-
-## 🚀 Live Demo
-
-> _(Optional: Add deployed link if hosted on Netlify, Vercel, etc.)_
-
-## 📸 Preview
-
-![image](https://github.com/user-attachments/assets/dccb4415-2fab-4f30-997d-61978acfc0c8)
 
 ---
 
