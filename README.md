@@ -41,7 +41,7 @@ Backend/API (for real-time data & orders)
 ## 🚀 Live Demo
 ## 📸 Preview
 
-![ShoppyGlobe Screenshot](./project-image.png)
+![image](https://github.com/user-attachments/assets/5a6292ae-d186-4280-9cb9-326ec0fb1e11)
 
 # 🛒 ShoppyGlobe E-commerce Application
 
@@ -53,7 +53,7 @@ ShoppyGlobe is a fully responsive e-commerce web application built using **React
 
 ## 📸 Preview
 
-![ShoppyGlobe Screenshot](./project-image.png)
+![image](https://github.com/user-attachments/assets/dccb4415-2fab-4f30-997d-61978acfc0c8)
 
 ---
 
