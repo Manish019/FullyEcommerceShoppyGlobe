@@ -48,16 +48,6 @@ Backend/API (for real-time data & orders)
 ![image](https://github.com/user-attachments/assets/fd9395b9-ee58-46a8-82f7-d1ffc9224ad2)
 
 
-
-
-
-
-# 🛒 ShoppyGlobe E-commerce Application
-
-ShoppyGlobe is a fully responsive e-commerce web application built using **React.js** and **Tailwind CSS**. It allows users to browse a variety of product categories such as beauty, fragrances, furniture, groceries, and more. This project demonstrates a clean UI, product listing functionality, and a simple cart icon to simulate an online shopping platform.
-
----
-
 ## ✨ Features
 
 - 🔍 **Search & Category Filtering**
